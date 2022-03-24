@@ -1,4 +1,6 @@
-package com.bridgelabz;
+package com.bridgelabz.service;
+
+import com.bridgelabz.model.EmployeePayroll;
 
 import java.util.ArrayList;
 import java.util.Scanner;
